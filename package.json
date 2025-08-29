@@ -6,8 +6,12 @@
 		"email": "otto.apel@gmail.com"
 	},
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mindbox/directus-extension-hash-generator"
+	},
 	"keywords": [
 		"directus",
 		"directus-extension",
