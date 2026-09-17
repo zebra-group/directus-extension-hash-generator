@@ -10,7 +10,7 @@
 	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/mindbox/directus-extension-hash-generator"
+		"url": "https://github.com/zebra-group/directus-extension-hash-generator"
 	},
 	"keywords": [
 		"directus",
